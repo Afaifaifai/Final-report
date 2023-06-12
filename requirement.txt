@@ -1,0 +1,7 @@
+Tensorflow (tensorflow-gpu==1.14.0 or tensorflow==1.14.0)
+Tensorboard (tensorboard==1.14.0)
+Keras (Keras==2.2.4)
+Opencv-python (opencv-python==4.1.0.25)
+Numpy (numpy==1.16.4)
+Pillow (Pillow==5.4.1)
+Tqdm (tqdm==4.31.1)
